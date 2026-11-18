@@ -147,7 +147,7 @@ package (cleaning, tested under `tests/`), `prototype_charts.py` and
 year-comparison helpers), `requirements.txt`, and `Procfile`
 (`gunicorn app:server`) — all verified locally with `python app.py`.
 
-- Repo is on GitHub at `lavanyas14205/global-climate-trends` (remote `origin`, branch `main`). Create a Render Web Service from it.
+- Repo is on GitHub at `lavanyas14205/DV-lab-project` (remote `origin`, branch `main`). Create a Render Web Service from it.
 - Build command `pip install -r requirements.txt`, start command
   `gunicorn app:server` — no env vars or API keys needed.
 - After deploy, sanity-check the live URL: all eight pages (`/`, `/q1`,
